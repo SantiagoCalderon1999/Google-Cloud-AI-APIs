@@ -1,0 +1,3 @@
+.env
+*.wav
+.ipynb_checkpoints
